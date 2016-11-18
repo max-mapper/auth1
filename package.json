@@ -1,0 +1,30 @@
+{
+  "name": "auth1",
+  "version": "1.0.0",
+  "description": "minimalist client library for auth0",
+  "main": "index.js",
+  "keywords": [
+    "auth",
+    "auth0",
+    "jwt",
+    "authentication"
+  ],
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jwt-decode": "^2.0.1",
+    "xhr": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "max ogden",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/auth1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/auth1/issues"
+  },
+  "homepage": "https://github.com/maxogden/auth1#readme"
+}
